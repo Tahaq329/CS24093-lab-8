@@ -7,8 +7,7 @@ int main()
 
     cout<<"alternative task";
 
-
-    cout<<"New branch test!!!";
+    cout<<"last commit";
     
     return 0;
 }
